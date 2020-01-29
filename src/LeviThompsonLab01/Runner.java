@@ -30,4 +30,4 @@ public class Runner {
 }
 
 /* estimated time: 4 hours
-   actually time used: around 5-6 hours*/
+   actual time used: around 5-6 hours*/
